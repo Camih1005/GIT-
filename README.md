@@ -1,4 +1,12 @@
-# Repositorio de introduccion a GIT
+# Repositorio de introduccion a git
 
-## Comando de condiguracion inicial
-* **git config -list**: lista la configuracion global actual de GIT para el usuario
+## Comando de configuracion inicial
+
+* **git config -list** Lista la configuracion actual y global de GIT para el usuario
+## temas
+* conectar repositorio remoto
+* crear ramas
+* combinar ramas
+* gestion de ramas
+* restaurar cambios
+* gestion de commits
