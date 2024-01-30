@@ -9,4 +9,4 @@
 * combinar ramas
 * gestion de ramas
 * restaurar cambios
-* gestion de commits
+* RESOLVER CONFLICTOS
