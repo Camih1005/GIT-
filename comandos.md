@@ -35,6 +35,7 @@ Las ramas (branch) son altamente importantes en el mundo de Git. Usando ramas, v
 
 ### git checkout -b (nombre-de-tu-rama)
 
+
 >Este comando crea una nueva rama en local (-b viene de rama (branch)) y te cambia a la rama que acabas de crear.
 
 # Git status
@@ -152,8 +153,9 @@ commit generado con el git revert
 
 ### git merge (nombre-de-la-rama)
 
->>Pista: Asegúrate de que tu rama dev tiene la última versión antes de fusionar otras ramas, si no, te enfrentarás a conflictos u otros problemas no deseados. 
+>>Pista: Asegúrate de que tu rama dev tiene la última versión antes de fusionar otras ramas, si no, te enfrentarás a conflictos u otros problemas no deseados.
 
+### git merge --abort
 ### git checkout -b creandoNUevaRama
 
 ### git reset HEAD~1  (elimina 1 hacia atras)
