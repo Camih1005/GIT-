@@ -82,6 +82,9 @@ web_modules/
 # Optional stylelint cache
 .stylelintcache
 
+#python 
+*.py
+
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
