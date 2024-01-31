@@ -155,7 +155,13 @@ commit generado con el git revert
 
 >>Pista: Asegúrate de que tu rama dev tiene la última versión antes de fusionar otras ramas, si no, te enfrentarás a conflictos u otros problemas no deseados.
 
-### git merge --abort
+### git merge --abort para abortar un merge
+LO DIFICIL
+### vi app.js
+## :set nu, oprimir I y se puede editar, se elimina con sup
+## y para salir es con escape + :wq! y enter
+
+
 ### git checkout -b creandoNUevaRama
 
 ### git reset HEAD~1  (elimina 1 hacia atras)
